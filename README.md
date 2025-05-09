@@ -37,3 +37,6 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kramu81&style=flat&color=blue)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kramu81&theme=dark&background=000000)](https://git.io/streak-stats)
