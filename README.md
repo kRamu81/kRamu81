@@ -35,3 +35,5 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 [![](https://visitcount.itsvg.in/api?id=kramu81&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kramu81&style=flat&color=blue)
