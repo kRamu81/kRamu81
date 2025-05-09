@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a student passionate about Competitive Programming <br>and currently learning to become a Database Engineer through Meta.<br>I enjoy solving problems, building backend systems, and exploring new tech.<br><br>Fun Fact: The first computer bug was a real moth found in 1947!
+I'm a student passionate about Competitive Programming <br>and currently learning to become a Database Engineer through Meta.<br>I enjoy solving problems on Codechef, and exploring new tech.<br><br>Fun Fact: The first computer bug was a real moth found in 1947!
 
 
 ## 🌐 Socials:
