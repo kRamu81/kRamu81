@@ -32,23 +32,7 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 [![CodeChef](https://img.shields.io/badge/CodeChef-kramu-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Kramu581)
 [![Codeforces](https://img.shields.io/badge/Codeforces-kramu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kramu581)
 
-## 🚀 Competitive Programming Stats
 
-### LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kramu?theme=dark&font=baloo&ext=contest)](https://leetcode.com/kRamu_581)
-
-### GeeksforGeeks
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-kramu-28A745?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kramu/practice/)
-
-> *(No dynamic card available for GFG, but link is included)*
-
-### CodeChef
-![CodeChef Rating](https://cp-logo.vercel.app/codechef/kramu?logo=true)
-[![CodeChef](https://img.shields.io/badge/CodeChef-kramu-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kramu581)
-
-### Codeforces
-![Codeforces Rating](https://cp-logo.vercel.app/codeforces/kramu?logo=true)
-[![Codeforces](https://img.shields.io/badge/Codeforces-kramu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kramu581)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kramu81&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
