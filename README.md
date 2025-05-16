@@ -23,6 +23,15 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+## 🚀 Competitive Programming Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-kramu-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kRamu_581/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-kramu-28A745?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kramu581/practice/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-kramu-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Kramu581)
+[![Codeforces](https://img.shields.io/badge/Codeforces-kramu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kramu581)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kramu81&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kramu81&theme=dark&hide_border=false)<br/>
