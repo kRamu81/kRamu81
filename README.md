@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Connect on GitHub](https://img.shields.io/badge/Connect-GitHub-black?logo=github)](https://github.com/kRamu81)
-
+[![Follow me on GitHub](https://img.shields.io/github/followers/kRamu81?label=Follow&style=social)](https://github.com/kRamu81)
 <!--
 **kRamu81/kRamu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
