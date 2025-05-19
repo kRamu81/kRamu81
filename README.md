@@ -46,5 +46,10 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 
 
 
+<div align="center">
+  <h3><b>📍Visitor Count</b></h3>
+</div>
 
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kRamu81/count.svg" />
+</p>
