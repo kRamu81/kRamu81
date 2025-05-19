@@ -27,8 +27,13 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 
 ## 🚀 Competitive Programming Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/kRamu_581/)
-
+<p align="center">
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/kRamu_581/)
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/kRamu581/profile)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=flat&logo=codechef)](https://www.codechef.com/users/kRamu581)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/kRamu581)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/kRamu581)
+</p>
 
 
 
