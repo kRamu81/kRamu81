@@ -46,37 +46,5 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 
 
 
-# .github/workflows/update-codolio.yml
-name: Update Codolio Card Daily
 
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
-  workflow_dispatch:
-
-jobs:
-  update-card:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
-
-    - name: Run update script
-      run: |
-        pip install -r requirements.txt
-        python update-card.py
-
-    - name: Commit changes
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "actions@github.com"
-        git add codolio-card.png
-        git commit -m "Daily update Codolio card"
-        git push
 
