@@ -45,11 +45,5 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 ![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
 
 
-<div align="center">
-  <h3><b>📍Visitor Count</b></h3>
-</div>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
-</p>
 
