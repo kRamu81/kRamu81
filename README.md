@@ -57,3 +57,14 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 <p align="center">
   <img src="https://profile-counter.glitch.me/kRamu81/count.svg" />
 </p>
+
+
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://discord.gg/kRamu581"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/im_kramu"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kanamramu581"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/kRamu581"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="mailto:kanamramu18@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
