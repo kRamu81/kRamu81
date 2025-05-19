@@ -2,7 +2,8 @@
 
 <p align="right">
   <a href="https://github.com/kRamu81">
-    <img src="https://img.shields.io/github/followers/kRamu81?label=Follow&style=social" alt="Follow me on GitHub" />
+    <img
+## Hi there 👋 src="https://img.shields.io/github/followers/kRamu81?label=Follow&style=social" alt="Follow me on GitHub" />
   </a>
 </p>
 
