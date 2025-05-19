@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<p align="right">
-  <a href="https://github.com/kRamu81">
-    <img
-## Hi there 👋 src="https://img.shields.io/github/followers/kRamu81?label=Follow&style=social" alt="Follow me on GitHub" />
-  </a>
-</p>
-
 <!--
 **kRamu81/kRamu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
