@@ -22,7 +22,7 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 <h3 align="center">💻 My Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,MySQL,html,css,python,github,gcp," alt="My Skills" width="400"/>
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,python,github,gcp" alt="My Skills" width="400"/>
 </p>
 
 
