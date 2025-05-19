@@ -63,3 +63,10 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 <p align="center">
   <img src="https://profile-counter.glitch.me/kRamu81/count.svg" alt="Visitor Count" />
 </p>
+
+
+<h3 align="center">💻 My Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,python,github,gcp,mysql" alt="My Skills" />
+</p>
