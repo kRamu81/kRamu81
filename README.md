@@ -28,14 +28,13 @@ I'm a student passionate about Competitive Programming<br>and currently learning
 
 <h3 align="center">🏆 Competitive Programming Profiles</h3>
 
-<p align="center">
+<p align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
   <a href="https://leetcode.com/kRamu_581/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/kRamu581/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/kRamu581"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/kRamu581"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/kRamu581"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
-
 
 
 ## 👨‍💻 GitHub Stats
