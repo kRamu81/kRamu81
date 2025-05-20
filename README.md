@@ -68,3 +68,7 @@ I'm a student passionate about Competitive Programming and currently learning to
 </p>
 
 
+---
+### CodeChef Stats
+
+![CodeChef](https://codechef-readme-stats.vercel.app/api/user?username=kramu581)
