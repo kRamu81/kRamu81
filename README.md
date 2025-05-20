@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a student passionate about Competitive Programming<br>and currently learning to become a Database Engineer through Meta.<br>I enjoy solving problems on Codechef, and exploring new tech.<br><br>Fun Fact:GitHub is just like a social media platform for code.
+I'm a student passionate about Competitive Programming and currently learning to become a Database Engineer through Meta.<br>I enjoy solving problems on Codechef, and exploring new tech.<br><br>Fun Fact:GitHub is just like a social media platform for code.
 
 
 
