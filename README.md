@@ -60,5 +60,4 @@ I'm a student passionate about Competitive Programming and currently learning to
   <a href="mailto:kanamramu18@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p><center>Thank you for visiting my profile!😊 Keep Exploring! Keep Contributing!</center></p>
 
