@@ -60,11 +60,5 @@ I'm a student passionate about Competitive Programming and currently learning to
   <a href="mailto:kanamramu18@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-<h3 align="center">📍 Visitor Count</h3>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/kRamu81/count.svg" alt="Visitor Count" />
-</p>
-
+Thank you for visiting my profile!😊 Keep Exploring! Keep Contributing!
 
