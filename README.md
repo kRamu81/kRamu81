@@ -76,7 +76,3 @@ I'm a student passionate about Competitive Programming and currently learning to
 
 
 
-
-<a href="https://github.com/kRamu81" target="_blank">
-  <img src="https://img.shields.io/badge/C%2B%2B-GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=gray" alt="C++ GitHub" />
-</a>
