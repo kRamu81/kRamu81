@@ -21,8 +21,16 @@ I'm a student passionate about Competitive Programming and currently learning to
 
 <h3 align="center">💻 My Tech Stack</h3>
 
+
+
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,python,git,github,gcp,vscode" alt="My Skills" width="400"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css" alt="Languages" width="300"/>
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,mysql" alt="Tools & Platforms" width="350"/>
 </p>
 
 
