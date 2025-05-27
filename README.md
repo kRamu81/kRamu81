@@ -81,3 +81,14 @@ I'm a student passionate about Competitive Programming and currently learning to
 </p>
 
 
+## Skills Breakdown
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css" alt="Languages" width="200"/>
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,mysql" alt="Tools & Platforms" width="250"/>
+</p>
