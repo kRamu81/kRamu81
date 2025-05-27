@@ -19,7 +19,7 @@ I'm a student passionate about Competitive Programming and currently learning to
 
 
 
-<h3 align="center">💻 My Tech Stack</h3>
+<h3 align="center">💻 My Skills</h3>
 
 ### Languages
 <p align="center">
