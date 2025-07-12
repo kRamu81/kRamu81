@@ -56,6 +56,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="margin: 0 15px;" />
   </a>
 </p>
+
 ---
 
 ## 👨‍💻 GitHub Stats
