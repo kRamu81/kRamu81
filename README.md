@@ -27,35 +27,35 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ---
 
+
 <h3 align="center">🏆 Competitive Programming Profiles</h3>
 
 <p align="center">
   <!-- LeetCode -->
   <a href="https://leetcode.com/kRamu_581/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin: 0 15px;" />
   </a>
 
   <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/kRamu581/profile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG" width="40" height="40" style="margin: 0 15px;" />
   </a>
 
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/kRamu581">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40" style="margin: 0 15px;" />
   </a>
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/kRamu581">
-    <img src="https://sta.codeforces.com/s/96545/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://sta.codeforces.com/s/96545/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40" style="margin: 0 15px;" />
   </a>
 
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/kRamu581">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="margin: 0 15px;" />
   </a>
 </p>
-
 ---
 
 ## 👨‍💻 GitHub Stats
