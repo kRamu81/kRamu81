@@ -1,25 +1,18 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi%20there!%20I%27m%20K%20Ramu%20👋&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="header image"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi%20there!%20I'm%20K%20Ramu%20👋&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="header image"/>
 </p>
+
+## Hi👋, I'm K Ramu
+
 <!--
 **kRamu81/kRamu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 # 💫 About Me:
 I am a highly motivated Computer Science and Engineering student passionate about solving real-world problems. Currently ongoing Backend Development, Data Structures, and Java Programming.
 
-
+---
 
 <h3 align="center">💻 My Skills</h3>
 
@@ -33,19 +26,19 @@ I am a highly motivated Computer Science and Engineering student passionate abou
   <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,mysql" alt="Tools & Platforms" width="250"/>
 </p>
 
+---
 
 <h3 align="center">🏆 Competitive Programming Profiles</h3>
 
-<div align="center">
+<p align="center">
+  <a href="https://leetcode.com/kRamu_581/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="30" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/kRamu581/profile"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="30" alt="GFG" /></a>
+  <a href="https://www.codechef.com/users/kRamu581"><img src="https://cdn.codechef.com/images/cc-logo.svg" width="30" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/kRamu581"><img src="https://sta.codeforces.com/s/96545/images/codeforces-logo-with-telegram.png" width="30" alt="Codeforces" /></a>
+  <a href="https://www.hackerrank.com/kRamu581"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="30" alt="HackerRank" /></a>
+</p>
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/kRamu_581/)
-  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/kRamu581/profile)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=flat&logo=codechef)](https://www.codechef.com/users/kRamu581)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/kRamu581)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/kRamu581)
-
-</div>
-
+---
 
 ## 👨‍💻 GitHub Stats
 
@@ -65,10 +58,11 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 </div>
 
-
+---
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
 
+---
 
 <h3 align="center">🌐 Connect with Me</h3>
 
@@ -82,5 +76,5 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 <!-- Footer Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=120&section=footer" alt="footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=140&section=footer&text=Thanks%20for%20visiting%20—%20@kRamu581&fontColor=ffffff&fontSize=20" alt="footer banner"/>
 </p>
