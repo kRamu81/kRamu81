@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi%20there!%20I'm%20K%20Ramu%20👋&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="header image"/>
 </p>
 
-## Hi👋, I'm K Ramu
 
 <!--
 **kRamu81/kRamu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
