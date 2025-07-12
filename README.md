@@ -31,11 +31,30 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 <h3 align="center">🏆 Competitive Programming Profiles</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/kRamu_581/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="30" alt="LeetCode" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/kRamu581/profile"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="30" alt="GFG" /></a>
-  <a href="https://www.codechef.com/users/kRamu581"><img src="https://cdn.codechef.com/images/cc-logo.svg" width="30" alt="CodeChef" /></a>
-  <a href="https://codeforces.com/profile/kRamu581"><img src="https://sta.codeforces.com/s/96545/images/codeforces-logo-with-telegram.png" width="30" alt="Codeforces" /></a>
-  <a href="https://www.hackerrank.com/kRamu581"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="30" alt="HackerRank" /></a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/kRamu_581/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/kRamu581/profile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/kRamu581">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/kRamu581">
+    <img src="https://sta.codeforces.com/s/96545/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/kRamu581">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="margin: 0 10px;" />
+  </a>
 </p>
 
 ---
