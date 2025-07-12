@@ -22,7 +22,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,mysql" alt="Tools & Platforms" width="250"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,mysql" alt="Tools & Platforms" width="200"/>
 </p>
 
 ---
