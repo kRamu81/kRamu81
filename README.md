@@ -15,14 +15,24 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 <h3 align="center">💻 My Skills</h3>
 
-### Languages
+### 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css" alt="Languages" width="150"/>
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js" alt="Languages" width="200" />
 </p>
 
-### Tools & Platforms
+---
+
+### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,mysql" alt="Tools & Platforms" width="200"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" width="40" />
+</p>
+
+---
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode" alt="Tools & Platforms" width="150" />
+  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="30" />
 </p>
 
 ---
