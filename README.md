@@ -20,14 +20,13 @@ I am a highly motivated Computer Science and Engineering student passionate abou
   <img src="https://skillicons.dev/icons?i=java,c,html,css,js" alt="Languages" width="200" />
 </p>
 
----
+
 
 ### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" width="40" />
 </p>
 
----
 
 ### 🔧 Tools & Platforms
 <p align="center">
