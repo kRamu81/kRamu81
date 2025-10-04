@@ -17,54 +17,18 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ### 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js" alt="Languages" width="200" />
-</p>
-
-
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" width="40" />
+  <img src="https://skillicons.dev/icons?i=java, python,html,css," alt="Languages" width="200" />
 </p>
 
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode" alt="Tools & Platforms" width="150" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & Platforms" width="150" />
   <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="30" />
 </p>
 
 ---
 
-
-<h3 align="center">🏆 Competitive Programming Profiles</h3>
-
-<p align="center">
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/kRamu_581/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin: 0 15px;" />
-  </a>
-
-  <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/kRamu581/profile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG" width="40" height="40" style="margin: 0 15px;" />
-  </a>
-
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/kRamu581">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40" style="margin: 0 15px;" />
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/kRamu581">
-    <img src="https://sta.codeforces.com/s/96545/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40" style="margin: 0 15px;" />
-  </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/kRamu581">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="margin: 0 15px;" />
-  </a>
-</p>
 
 ---
 
