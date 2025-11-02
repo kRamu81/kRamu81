@@ -66,7 +66,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 <h3 align="center">🌐 Connect with Me</h3>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
+
 
 <p align="center">
   <a href="https://discord.gg/kRamu581"><img src="https://skillicons.dev/icons?i=discord" width="30"/></a>
@@ -74,6 +74,9 @@ I am a highly motivated Computer Science and Engineering student passionate abou
   <a href="https://linkedin.com/in/kanamramu581"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
   <a href="https://x.com/kRamu581"><img src="https://skillicons.dev/icons?i=twitter" width="30"/></a>
   <a href="mailto:kanamramu18@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
+
 </p>
 
 <!-- Footer Image -->
