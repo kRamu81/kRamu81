@@ -59,9 +59,11 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 ---
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kramu581&theme=dark)
+### 📔 501 Days of Code Challenge  
+[![Notion Challenge](https://img.shields.io/badge/Track%20My%20Progress-Notion-0d9488?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/e82d560ba46e4fe9b545ad3950561f68?v=f37ffbd0092e42f78bda98aacd1b88a4&source=copy_link)
 
-<img src="https://leetcode-stats.vercel.app/api?username=kramu581&theme=dark&hide_border=true&border_radius=10&text_color=c9d1d9&icon_color=c9d1d9&title_color=c9d1d9" width="80%" />
-
+🗓️ **Current Day:** 58 / 501  
+💪 Tracking progress daily on [Notion](https://www.notion.so/e82d560ba46e4fe9b545ad3950561f68?v=f37ffbd0092e42f78bda98aacd1b88a4&source=copy_link)
 ---
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
