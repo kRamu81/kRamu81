@@ -60,7 +60,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kramu581&theme=dark)
 
-<img src="https://leetcard.jacoblin.cool/kramu581?theme=transparent&font=Roboto" width="80%" />
+<img src="https://leetcard.jacoblin.cool/kramu581?theme=dark&font=Comic%20Neue&bg=0d1117,161b22,0d1117" width="80%" />
 
 ---
 
