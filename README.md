@@ -28,7 +28,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 </p>
 
 ---
-
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-kRamu81-ffdd40.svg)](https://www.codechef.com/users/kRamu81)
 
 ---
 
