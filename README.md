@@ -15,20 +15,46 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 <h3 align="center">💻 My Skills</h3>
 
-### 🧠 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css," alt="Languages" width="200" />
-</p>
+<!-- Side-by-side layout -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
+  <!-- Languages -->
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <h4>🧠 Languages</h4>
+    <p>
+      <img src="https://skillicons.dev/icons?i=java,python" alt="Languages" width="160" />
+    </p>
+  </div>
 
-### 🔧 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & Platforms" width="150" />
-  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="30" />
-</p>
+  <!-- Web Technologies -->
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <h4>🌐 Web Technologies</h4>
+    <p>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Web Technologies" width="160" />
+    </p>
+  </div>
 
----
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-kRamu81-ffdd40.svg)](https://www.codechef.com/users/kRamu81)
+  <!-- Core Subjects -->
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <h4>⚙️ Core Subjects</h4>
+    <ul align="left">
+      <li>DBMS</li>
+      <li>Operating Systems (OS)</li>
+      <li>Data Structures & Algorithms (DSA)</li>
+      <li>Core Java</li>
+    </ul>
+  </div>
+
+  <!-- Tools & Platforms -->
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <h4>🔧 Tools & Platforms</h4>
+    <p>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" width="150" />
+      <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="30" />
+    </p>
+  </div>
+
+</div>
 
 ---
 
