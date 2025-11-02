@@ -60,7 +60,9 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kramu581&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api?username=kRamu81&show_icons=true&theme=onedark&hide_border=true" width="80%" />
+<a href="https://www.codechef.com/users/kRamu81">
+  <img src="https://img.shields.io/badge/CodeChef-kRamu81-ffdd40?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
 ---
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
