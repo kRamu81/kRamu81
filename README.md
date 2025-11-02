@@ -64,11 +64,9 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
-
----
-
 <h3 align="center">🌐 Connect with Me</h3>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
 
 <p align="center">
   <a href="https://discord.gg/kRamu581"><img src="https://skillicons.dev/icons?i=discord" width="30"/></a>
