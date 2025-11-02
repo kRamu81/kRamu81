@@ -32,7 +32,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ---
 
-
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kramu581&theme=dark)
 
 ---
 
