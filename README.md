@@ -11,6 +11,9 @@
 # 💫 About Me:
 I am a highly motivated Computer Science and Engineering student passionate about solving real-world problems. Currently ongoing Backend Development, Data Structures, and Java Programming.
 
+### 📔 501 Days of Code Challenge  
+[![Notion Challenge](https://img.shields.io/badge/Track%20My%20Progress-Notion-0d9488?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/e82d560ba46e4fe9b545ad3950561f68?v=f37ffbd0092e42f78bda98aacd1b88a4&source=copy_link)
+
 ---
 
 <h3 align="center">💻 My Skills</h3>
@@ -59,8 +62,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 ---
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kramu581&theme=dark)
-### 📔 501 Days of Code Challenge  
-[![Notion Challenge](https://img.shields.io/badge/Track%20My%20Progress-Notion-0d9488?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/e82d560ba46e4fe9b545ad3950561f68?v=f37ffbd0092e42f78bda98aacd1b88a4&source=copy_link)
+
 
 ---
 
