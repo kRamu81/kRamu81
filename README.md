@@ -52,7 +52,10 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 ---
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kramu581&theme=dark)
+---
+### 📊 GitHub Contribution Graph
 
+![GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=kRamu81)
 
 ---
 
