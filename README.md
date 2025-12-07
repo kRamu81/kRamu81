@@ -37,16 +37,6 @@ I am a highly motivated Computer Science and Engineering student passionate abou
     </p>
   </div>
 
-  <!-- Core Subjects -->
-  <div style="flex: 1 1 300px; min-width: 250px;">
-    <h4>⚙️ Core Subjects</h4>
-    <ul align="left">
-      <li>DBMS</li>
-      <li>Operating Systems (OS)</li>
-      <li>Data Structures & Algorithms (DSA)</li>
-      <li>Core Java</li>
-    </ul>
-  </div>
 
   <!-- Tools & Platforms -->
   <div style="flex: 1 1 300px; min-width: 250px;">
