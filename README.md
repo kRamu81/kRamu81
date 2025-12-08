@@ -33,7 +33,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
   <div style="flex: 1 1 300px; min-width: 250px;">
     <h4>🌐 Web Technologies</h4>
     <p>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Web Technologies" width="160" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Web Technologies" width="140" />
     </p>
   </div>
 
@@ -42,7 +42,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
   <div style="flex: 1 1 300px; min-width: 250px;">
     <h4>🔧 Tools & Platforms</h4>
     <p>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" width="150" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" width="140" />
       <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="30" />
     </p>
   </div>
