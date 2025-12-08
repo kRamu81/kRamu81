@@ -1,3 +1,10 @@
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/kramu581?ext=heatmap)
+
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/kramu581?theme=dark&ext=heatmap)](https://leetcode.com/u/kramu581/)
+
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/kramu581?theme=dark&ext=heatmap)
+
 
 ![LeetCode Contest Stats](https://leetcard.jacoblin.cool/kramu581?ext=contest)
 
