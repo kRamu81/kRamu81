@@ -1,11 +1,6 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/kramu581)
-https://leetcard.jacoblin.cool/lapor?ext=contest
-![LeetCode Stats](https://leetcard.jacoblin.cool/kramu581)
 
 ![LeetCode Contest Stats](https://leetcard.jacoblin.cool/kramu581?ext=contest)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kramu581?theme=dark)](https://leetcode.com/u/kramu581/)
-```0
+
 
 
 <!-- Header Image -->
