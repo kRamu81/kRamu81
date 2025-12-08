@@ -1,3 +1,12 @@
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kramu581)
+
+![LeetCode Contest Stats](https://leetcard.jacoblin.cool/kramu581?ext=contest)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kramu581?theme=dark)](https://leetcode.com/u/kramu581/)
+```0
+
+
 <!-- Header Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi%20there!%20I'm%20K%20Ramu%20👋&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="header image"/>
