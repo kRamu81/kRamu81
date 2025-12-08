@@ -1,14 +1,3 @@
-[![LeetCode Combined](https://leetcard.jacoblin.cool/kramu581?theme=dark&ext=heatmap,contest)](https://leetcode.com/u/kramu581/)
-
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/kramu581?theme=dark&ext=heatmap)
-
-
-![LeetCode Contest Stats](https://leetcard.jacoblin.cool/kramu581?ext=contest)
-
-![LeetCode Combined](https://leetcard.jacoblin.cool/kramu581?theme=dark&ext=heatmap,contest)
-
-
 <!-- Header Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi%20there!%20I'm%20K%20Ramu%20👋&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="header image"/>
@@ -61,10 +50,11 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 </div>
 
 ---
+### Leetcode Status 
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kramu581&theme=dark)
----
-### 📊 GitHub Contribution Graph
+![LeetCode Contest Stats](https://leetcard.jacoblin.cool/kramu581?ext=contest)
+
+###  GitHub Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=github)
 
