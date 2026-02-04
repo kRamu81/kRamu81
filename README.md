@@ -58,8 +58,13 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRamu81&theme=dark)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KRamu81&theme=dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KRamu81&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRamu81&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KRamu81&theme=dark&utcOffset=8)
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
