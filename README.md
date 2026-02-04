@@ -23,7 +23,6 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
   <!-- Languages -->
   <div style="flex: 1 1 300px; min-width: 250px;">
-    <h4>🧠 Languages</h4>
     <p>
       <img src="https://skillicons.dev/icons?i=java,python" alt="Languages" width="100" />
 <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Web Technologies" width="140" />
