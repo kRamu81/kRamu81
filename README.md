@@ -56,6 +56,8 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ###  GitHub Contribution Graph
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRamu81&theme=dark)
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=github)
 
 ---
