@@ -16,7 +16,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ---
 
-<h3 align="center">💻 My Skills</h3>
+<h3 align="center">💻Tech Stack</h3>
 
 <!-- Side-by-side layout -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
@@ -26,27 +26,13 @@ I am a highly motivated Computer Science and Engineering student passionate abou
     <h4>🧠 Languages</h4>
     <p>
       <img src="https://skillicons.dev/icons?i=java,python" alt="Languages" width="100" />
-    </p>
-  </div>
-
-  <!-- Web Technologies -->
-  <div style="flex: 1 1 300px; min-width: 250px;">
-    <h4>🌐 Web Technologies</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Web Technologies" width="140" />
-    </p>
-  </div>
-
-
-  <!-- Tools & Platforms -->
-  <div style="flex: 1 1 300px; min-width: 250px;">
-    <h4>🔧 Tools & Platforms</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" width="140" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Web Technologies" width="140" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" width="140" />
       <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="30" />
     </p>
   </div>
 
+  
 </div>
 
 ---
