@@ -9,7 +9,13 @@
 -->
 
 # 💫 About Me:
-I am a highly motivated Computer Science and Engineering student passionate about solving real-world problems. Currently ongoing Backend Development, Data Structures, and Java Programming.
+I am a Computer Engineering student with a strong interest in Java programming and problem solving. I am currently learning Core Java, Data Structures & Algorithms, Spring Boot, and practicing regularly on coding platforms.
+
+Technology excites me, especially how programming can solve real-world problems. I enjoy learning new concepts, improving my logic, and staying consistent with daily practice.
+
+My skill set includes Java, DSA basics, Frontend, and GitHub. What I may lack in experience, I make up for with discipline, curiosity, and a strong desire to learn.
+
+Outside academics, I focus on self-improvement and continuous learning.
 
 ### 📔 501 Days of Code Challenge  
 [![Notion Challenge](https://img.shields.io/badge/Track%20My%20Progress-Notion-0d9488?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/e82d560ba46e4fe9b545ad3950561f68?v=f37ffbd0092e42f78bda98aacd1b88a4&source=copy_link)
@@ -41,15 +47,7 @@ I am a highly motivated Computer Science and Engineering student passionate abou
 
 ###  GitHub Contribution Graph
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRamu81&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KRamu81&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KRamu81&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRamu81&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KRamu81&theme=dark&utcOffset=8)
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
