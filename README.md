@@ -1,71 +1,81 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=200&section=header&text=Hi%20there!%20I'm%20K%20Ramu%20👋&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="header image"/>
+<h1 align="center">Hi 👋, I'm K Ramu</h1>
+
+###
+
+<h4 align="center">A Passionate Programmer | Java Full Stack Learner | Problem Solver</h4>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kRamu81.kRamu81&left_color=darkslategray&right_color=black&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<p align="left">
+
+- 👨‍💻 My GitHub Profile: <a href="https://github.com/kRamu81">kRamu81</a>  
+- 🌱 I’m currently learning **Java Full Stack Development** and **ServiceNow**  
+- 💡 Interested in **Web Development, Problem Solving, and Software Engineering**  
+- 👯 I’m looking to collaborate on exciting development projects  
+- 🎯 Goals: Become a skilled Full Stack Developer & contribute to open-source  
+- ⚡ Fun Fact: Debugging feels like solving a mystery — every bug has a story 😄  
+
 </p>
-
-
-<!--
-**kRamu81/kRamu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-# 💫 About Me:
-I am a Computer Engineering student with a strong interest in Java programming and problem solving. I am currently learning Core Java, Data Structures & Algorithms, Spring Boot, and practicing regularly on coding platforms.
-
-Technology excites me, especially how programming can solve real-world problems. I enjoy learning new concepts, improving my logic, and staying consistent with daily practice.
-
-My skill set includes Java, DSA basics, Frontend, and GitHub. What I may lack in experience, I make up for with discipline, curiosity, and a strong desire to learn.
-
-Outside academics, I focus on self-improvement and continuous learning.
-
-### 📔 501 Days of Code Challenge  
-[![Notion Challenge](https://img.shields.io/badge/Track%20My%20Progress-Notion-0d9488?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/e82d560ba46e4fe9b545ad3950561f68?v=f37ffbd0092e42f78bda98aacd1b88a4&source=copy_link)
 
 ---
 
-<h3 align="center">💻Tech Stack</h3>
+<h3 align="left">Programming Languages and Tools :</h3>
 
-<!-- Side-by-side layout -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+###
 
-  <!-- Languages -->
-  <div style="flex: 1 1 300px; min-width: 250px;">
-    <p>
-      <img src="https://skillicons.dev/icons?i=java,python" alt="Languages" width="100" />
-<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Web Technologies" width="140" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" width="140" />
-      <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="30" />
-    </p>
-  </div>
-
+<div align="center">
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo" />
+
 </div>
 
 ---
-### Leetcode Status 
 
-![LeetCode Contest Stats](https://leetcard.jacoblin.cool/kramu581?ext=contest)
+<h3 align="left">🚀 Currently Working On</h3>
 
-###  GitHub Contribution Graph
-
+<p align="left">
+✅ Java + DSA Practice <br>
+✅ Full Stack Web Development (React + Backend) <br>
+✅ ServiceNow CSA Preparation <br>
+✅ Building Projects & Improving Problem Solving Skills <br>
+</p>
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
-
-
-
-<p align="center">
-  <a href="https://discord.gg/kRamu581"><img src="https://skillicons.dev/icons?i=discord" width="30"/></a>
-  <a href="https://instagram.com/im_kramu"><img src="https://skillicons.dev/icons?i=instagram" width="30"/></a>
-  <a href="https://linkedin.com/in/kanamramu581"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
-  <a href="https://x.com/kRamu581"><img src="https://skillicons.dev/icons?i=twitter" width="30"/></a>
-  <a href="mailto:kanamramu18@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
-
-</p>
-
-<!-- Footer Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=140&section=footer&text=Thanks%20for%20visiting%20—%20@kRamu581&fontColor=ffffff&fontSize=20" alt="footer banner"/>
-</p>
+<h3 align="center">✨ Thank you for visiting my profile!</h3>
