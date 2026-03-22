@@ -19,8 +19,9 @@
 
 ---
 
-#  Languages and Tools
-<p align="left">
+###  Languages and Tools
+<p align="center">
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
@@ -39,8 +40,8 @@
 </p>
 
 
-
-# 📫 Connect With Me
+---
+### Connect With Me
 
 GitHub  
 https://github.com/kRamu81
