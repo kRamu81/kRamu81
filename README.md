@@ -18,6 +18,7 @@ I’m a B.Tech undergraduate studying Computer Science and Engineering. My inter
 Stats:
 𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 (1500+ rating):
 https://leetcode.com/u/kRamu581/
+
 𝐂𝐨𝐝𝐞𝐂𝐡𝐞𝐟 (1400+ rating):
 https://www.codechef.com/users/kramu581
 
