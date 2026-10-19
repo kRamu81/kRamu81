@@ -1,7 +1,4 @@
 
-<!-- Banner -->
-![Ramu Banner](./banner.png)
-
 <!-- Night Owl Image -->
 <div>
   <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Developer illustration">
@@ -64,18 +61,7 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
 
 <br>
 
----
 
-<!-- Trophies Section -->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies">
-  </a>
-</p>
-
-<br>
 
 <!-- GitHub Stats Table -->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -85,7 +71,7 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME">
+        <a href="https://github.com/kRamu81">
           <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
         </a>
       </p>
@@ -93,7 +79,7 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
       <p align="center">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME">
+        <a href="https://github.com/kRamu81">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
         </a>
       </p>
@@ -103,13 +89,13 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com?user=kRamu81&theme=tokyonight&hide_border=true" alt="GitHub Streak">
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Contribution Activity</strong></h3>
       <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Activity">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kRamu81E&theme=tokyo-night&hide_border=true" alt="Contribution Activity">
       </p>
     </td>
   </tr>
@@ -123,7 +109,7 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
 </div>
 
 ---
@@ -146,11 +132,11 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
     <img src="https://img.shields.io/badge/NowScripts-Website-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="NowScripts">
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/kRamu81" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://linkedln.com/kanamramu581" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
