@@ -29,7 +29,7 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
 
 <!-- Profile Count Badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=kRamu81&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
 ---
