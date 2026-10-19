@@ -95,7 +95,7 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
     <td width="50%">
       <h3 align="center"><strong>Contribution Activity</strong></h3>
       <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kRamu81E&theme=tokyo-night&hide_border=true" alt="Contribution Activity">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=tokyo-night&hide_border=true" alt="Contribution Activity">
       </p>
     </td>
   </tr>
