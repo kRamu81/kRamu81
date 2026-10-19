@@ -1,55 +1,170 @@
-<h1 align="center">Hi 👋, I'm K Ramu</h1>
 
-<h3 align="center"> 𝐂𝐒 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝 |  𝐉𝐚𝐯𝐚 & 𝐃𝐒𝐀 | 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐍𝐨𝐰  | 𝐈𝐓𝐒𝐌 | 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 </h3>
+<!-- Banner -->
+![Ramu Banner](./banner.png)
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kRamu81.kRamu81"/>
+<!-- Night Owl Image -->
+<div>
+  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Developer illustration">
+</div>
+
+<!-- Header Name -->
+# 👋 ɪ'ᴍ Rᴀᴍᴜ!
+
+*Computer Science Student | ServiceNow Developer | AI & Automation Enthusiast*
+
+<br>
+
+<!-- Start Intro -->
+<p align="left">
+I'm a Computer Science Engineering undergraduate passionate about ServiceNow Development, Java, AI-powered automation, and Full Stack Development. I enjoy building useful solutions, exploring new technologies, and sharing my learning journey with the developer community.
+</p>
+
+- 🎓 Computer Science Engineering student at KSRM College of Engineering.
+- 🚀 Building [NowScripts](https://nowscripts.in) — a free ServiceNow learning platform.
+- 🌱 Currently learning ServiceNow Development, ITSM, ITAM, and CMDB.
+- 🤖 Exploring Generative AI, RAG, LLMs, and intelligent automation.
+- 💻 Practicing Data Structures and Algorithms using Java.
+- ☁️ Learning Spring Boot, REST APIs, and cloud technologies.
+- ✍️ Sharing ServiceNow knowledge and learning resources.
+- ✨ A lifelong learner who believes every day is an opportunity to improve.
+
+<!-- End Intro -->
+
+<!-- Profile Count Badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
 ---
 
-### About Me
+<!-- Languages and Tools Section -->
+<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Bʟᴏɢs</h2>
 
-Hi there! 👋 I'm 𝐊𝐚𝐧𝐚𝐦 𝐑𝐚𝐦𝐮 
-👋Happy to connect with you !! 
-
-I’m a B.Tech undergraduate studying Computer Science and Engineering. My interests span 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 & 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 and 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐍𝐨𝐰 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭. I’m eager to explore these domains and connect with like-minded individuals.
-
-Stats:
-𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 (1500+ rating):
-https://leetcode.com/u/kRamu581/
-
-𝐂𝐨𝐝𝐞𝐂𝐡𝐞𝐟 (1400+ rating):
-https://www.codechef.com/users/kramu581
-
----
-
-###  Languages and Tools
 <p align="center">
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,spring,mongodb,mysql,aws,git,github&perline=7" alt="Tech Stack">
 </p>
 
+<h3 align="left">Current Learning</h3>
+
+<ul align="left">
+  <li>ServiceNow Development: Business Rules, Client Scripts, UI Policies, Script Includes, and GlideRecord.</li>
+  <li>ITSM, ITAM, CMDB, Flow Designer, and Service Portal.</li>
+  <li>Generative AI, Retrieval-Augmented Generation (RAG), and LLM integrations.</li>
+  <li>Java, Spring Boot, REST APIs, and backend development.</li>
+  <li>Data Structures and Algorithms using Java.</li>
+</ul>
+
+<h3 align="left">Latest Blog Posts</h3>
+
+<ul align="left">
+  <li><a href="https://nowscripts.in/">Explore ServiceNow Learning Resources at NowScripts</a></li>
+  <li><a href="https://nowscripts.in/">Learn ServiceNow Development and ITSM Concepts</a></li>
+  <li><a href="https://nowscripts.in/">Explore ServiceNow Interview Preparation Resources</a></li>
+</ul>
+
+<br>
 
 ---
-### Connect With Me
 
-GitHub  
-https://github.com/kRamu81
+<!-- Trophies Section -->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
-LinkedIn  
-https://www.linkedin.com/in/kanamramu581/
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies">
+  </a>
+</p>
+
+<br>
+
+<!-- GitHub Stats Table -->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/YOUR_GITHUB_USERNAME">
+          <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/YOUR_GITHUB_USERNAME">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Contribution Activity</strong></h3>
+      <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Activity">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<!-- Contribution Graph -->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
+</div>
+
+---
+
+<!-- Thought of the Day -->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=1a1b27&author_color=70a5fd&accent_color=bf91f3" alt="Daily Quote">
+</p>
+
+---
+
+<!-- Contact Section -->
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+
+<div align="center">
+
+  <a href="https://nowscripts.in/" target="_blank">
+    <img src="https://img.shields.io/badge/NowScripts-Website-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="NowScripts">
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+</div>
+
+<br>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <i>"Learn continuously. Build consistently. Share generously."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer">
+</p>
