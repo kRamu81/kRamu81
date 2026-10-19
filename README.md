@@ -64,7 +64,7 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
 
 
 <!-- GitHub Stats Table -->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 Github Stats 📊</h2>
 
 <table width="100%">
   <tr>
@@ -72,7 +72,7 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/kRamu81">
-          <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=kRamu581&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
         </a>
       </p>
     </td>
@@ -80,7 +80,7 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
       <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
       <p align="center">
         <a href="https://github.com/kRamu81">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRamu81&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
         </a>
       </p>
     </td>
@@ -103,25 +103,6 @@ I'm a Computer Science Engineering undergraduate passionate about ServiceNow Dev
 
 <br>
 
----
-
-<!-- Contribution Graph -->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
-</div>
-
----
-
-<!-- Thought of the Day -->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=1a1b27&author_color=70a5fd&accent_color=bf91f3" alt="Daily Quote">
-</p>
-
----
 
 <!-- Contact Section -->
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
