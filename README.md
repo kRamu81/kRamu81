@@ -11,10 +11,6 @@
 
 <br>
 
-Here's your edited version. I fixed the grammar, tightened the learning line, and added the IKWA internship, the kiosk project, and your GitHub skills:
-
----
-
 Everyone wants to break into tech, and I'm figuring it out by building.
 
 I'm a CS undergrad at KSRM College of Engineering and a Junior ServiceNow Developer Intern at IKWA. I'm also building NowScripts, a free learning platform for ServiceNow developers.
