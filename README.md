@@ -11,22 +11,38 @@
 
 <br>
 
-<!-- Start Intro -->
-<p align="left">
-I'm a Computer Science Engineering undergraduate passionate about ServiceNow Development, Java, AI-powered automation, and Full Stack Development. I enjoy building useful solutions, exploring new technologies, and sharing my learning journey with the developer community.
-</p>
+Here's your edited version. I fixed the grammar, tightened the learning line, and added the IKWA internship, the kiosk project, and your GitHub skills:
 
-- 🎓 Computer Science Engineering student at KSRM College of Engineering.
-- 🚀 Building [NowScripts](https://nowscripts.in) — a free ServiceNow learning platform.
-- 🌱 Currently learning ServiceNow Development, ITSM, ITAM, and CMDB.
-- 🤖 Exploring Generative AI, RAG, LLMs, and intelligent automation.
-- 💻 Practicing Data Structures and Algorithms using Java.
-- ☁️ Learning Spring Boot, REST APIs, and cloud technologies.
-- ✍️ Sharing ServiceNow knowledge and learning resources.
-- ✨ A lifelong learner who believes every day is an opportunity to improve.
+---
 
-<!-- End Intro -->
+Everyone wants to break into tech, and I'm figuring it out by building.
 
+I'm a CS undergrad at KSRM College of Engineering and a Junior ServiceNow Developer Intern at IKWA. I'm also building NowScripts, a free learning platform for ServiceNow developers.
+
+**My journey so far:**
+2024: Started coding, knowing nothing
+2025: Got stuck in web development and almost gave up
+2026: Fell into ServiceNow and got hooked
+2026: Launched NowScripts to help aspiring ServiceNow devs
+
+**What I'm learning and building:**
+ServiceNow AI and AI Agents, Client Scripts, Business Rules, Script Includes, Flow Designer, REST integrations, ITSM, ITAM, CMDB, Java, Spring Boot, and GenAI automation (RAG and LLMs). I share what I learn along the way.
+
+**Here's how I can help you:**
+1. Check out NowScripts for free ServiceNow learning resources
+2. Follow me for ServiceNow, Java, and AI tips
+3. Connect with me if you're hiring or building in this space
+
+And if you're not ready for any of that, welcome to my profile anyway. I talk about ServiceNow, coding, and learning in public.
+
+See you on the feed 🚀
+
+🌐 nowscripts.in
+LeetCode (1500+): leetcode.com/u/kRamu581
+CodeChef (1400+): codechef.com/users/kramu581
+Open to roles + collabs: kanamram@gmail.com
+
+---
 <!-- Profile Count Badge -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kRamu81&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
