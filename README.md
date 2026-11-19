@@ -20,27 +20,12 @@ Everyone wants to break into tech, and I'm figuring it out by building.
 I'm a CS undergrad at KSRM College of Engineering and a Junior ServiceNow Developer Intern at IKWA. I'm also building NowScripts, a free learning platform for ServiceNow developers.
 
 **My journey so far:**
-2024: Started coding, knowing nothing
-2025: Got stuck in web development and almost gave up
-2026: Fell into ServiceNow and got hooked
-2026: Launched NowScripts to help aspiring ServiceNow devs
-
-**What I'm learning and building:**
-ServiceNow AI and AI Agents, Client Scripts, Business Rules, Script Includes, Flow Designer, REST integrations, ITSM, ITAM, CMDB, Java, Spring Boot, and GenAI automation (RAG and LLMs). I share what I learn along the way.
-
-**Here's how I can help you:**
-1. Check out NowScripts for free ServiceNow learning resources
-2. Follow me for ServiceNow, Java, and AI tips
-3. Connect with me if you're hiring or building in this space
+  - 2024: Started coding, knowing nothing
+  - 2025: Got stuck in web development and almost gave up
+  - 2026: Fell into ServiceNow and got hooked
+  - 2026: Launched NowScripts to help aspiring ServiceNow devs
 
 And if you're not ready for any of that, welcome to my profile anyway. I talk about ServiceNow, coding, and learning in public.
-
-See you on the feed 🚀
-
-🌐 nowscripts.in
-LeetCode (1500+): leetcode.com/u/kRamu581
-CodeChef (1400+): codechef.com/users/kramu581
-Open to roles + collabs: kanamram@gmail.com
 
 ---
 <!-- Profile Count Badge -->
